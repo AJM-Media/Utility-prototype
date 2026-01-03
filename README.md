@@ -3,14 +3,14 @@
 **Real-World Front-end Task \- Configurable Product Page**
 
 **Author:** Andrew Murray  
-**Client:** Utility  
+**Client:** DOCK/Utility  
 **Date:** January 2026
 
 ---
 
 ## **Overview**
 
-This prototype was produced in response to Utility Design’s request for a real-world front-end task, focused on improving the usability and overall experience of purchasing a configurable product with multiple options.
+This prototype was produced in response to a recruiter for DOCK (Liverpool  Utility Design’s request for a real-world front-end task, focused on improving the usability and overall experience of purchasing a configurable product with multiple options.
 
 The brief and supplied Figma artwork were used as the primary reference, with the goal of translating static design concepts into a fully functional, interactive prototype suitable for early-stage user testing.
 
