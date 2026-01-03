@@ -10,7 +10,7 @@
 
 ## **Overview**
 
-This prototype was produced in response to a recruiter for DOCK (Liverpool  Utility Design’s request for a real-world front-end task, focused on improving the usability and overall experience of purchasing a configurable product with multiple options.
+This prototype was produced in response to a recruiter for DOCK (Liverpool Marketing Agency) providing a task to complete. The request was for a real-world front-end task, focused on improving the usability and overall experience of purchasing a configurable product with multiple options.
 
 The brief and supplied Figma artwork were used as the primary reference, with the goal of translating static design concepts into a fully functional, interactive prototype suitable for early-stage user testing.
 
@@ -20,13 +20,13 @@ The result is a lightweight WordPress-based prototype that closely follows the p
 
 ## **Approach**
 
-* Built as a **custom lightweight WordPress theme**, avoiding large frameworks or third-party libraries (avoided plugins as much as possible,no woocommerce etc which I would typically use when building a full-function, product to checkout build).
+* Built as a **custom lightweight WordPress theme** via Local by flywheel & VS code, avoiding large frameworks or third-party libraries (avoided plugins as much as possible -no woocommerce etc which I would typically use when building a full-function, product to checkout build).
 
 * Core technologies used: **HTML, CSS, vanilla JavaScript, and PHP** (WordPress templating).
 
 * The product configuration logic is **data-driven**, allowing options, prices, images and swatches to be defined via JSON rather than hardcoded markup.
 
-* The prototype was developed locally using **Local (by Flywheel)** and migrated to a temporary domain for review.
+* The prototype was developed locally using **Local (by Flywheel)** and migrated to a temporary domain and uploaded to Github for review.
 
 The aim throughout was to balance realism (how this would scale in a real project) with simplicity, keeping the codebase readable and maintainable but prepared in a way that would support further development.
 
